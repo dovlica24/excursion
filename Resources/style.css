@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Verdana;
+}
+
+body {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2.5rem;
+}
+
+h1 {
+    font-size: 3.125rem;
+    color: white;
+    font-weight: normal;
+    margin-top: 2rem;
+}
+
+
+
+a {
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: 2.625rem;
+    color: white;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 1.313rem;
+}
+
